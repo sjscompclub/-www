@@ -49,7 +49,7 @@ Project Repository Structure
 
 Once downloaded on your laptop, your source code folder structure should be similar to the following diagram:
 
-.. image:: ../../../assets/images/www3.webp
+.. image:: ../../../assets/images/www6.webp
   :width: 1400
   :alt: Website Soure Code File Structure Diagram 
 
